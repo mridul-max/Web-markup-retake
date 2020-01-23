@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /forbidden
+Sitemap: https://taekwon.eu/632901/sitemap.xml
