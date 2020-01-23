@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet"');
+@import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap" rel="stylesheet"');
+
+@media screen and (min-width: 480px )  {
+  ul{
+    background-color: #008B8B;
+    
+  }
+ li a{ 
+     background-color: #008B8B;
+  }
+
+  body{
+  width: 100%;
+  background-color:#fefbd8 ;
+}
+}
+@media screen and (min-width:481px) and (max-width:1179px) {
+   ul{
+    background-color: #008B8B;
+    
+  }
+ li a{ 
+     background-color: #008B8B;
+  }
+
+  body{
+  width: 100%;
+  background-color:#fefbd8 ;
+}
+}
+@media screen and (min-width:1280px){
+   ul{
+    background-color: #FF7F50;
+    
+  }
+ li a{ 
+     background-color: #FF7F50;
+  }
+
+  body{
+  width: 100%;
+  background-color:#fefbd8 ;
+}
+}
+
+.heading{
+  font-family: Arial;
+  background-color: #333;
+  padding: 0;
+  top: 0;
+  width: 100%;
+  text-align: center;
+  color: white;
+  position: fixed;
+  left: 0%;
+
+}
+h2{
+  text-align: center;
+}
+
+
+ul {
+  float: left;
+  list-style-type: none;
+  background-color: #FF7F50;
+  padding: 0px;
+  width: 100%;
+  overflow: hidden;
+  
+}
+li a{
+
+  float: left;
+  display: flex;
+  justify-content: flex-start;
+  color: #f2f2f2;
+  text-align: center;
+  margin: 0px;
+  padding:10px;
+  text-decoration: none;
+  border: 1px solid #fff;
+  list-style-type: none;
+  
+}
+
+.active{
+  float: right;
+  display: flex;
+  border: 1px solid #fff;
+}
+li a:hover {
+  background-color: #ddd;
+}
+video {
+    list-style-type: none;
+    z-index: -100; 
+    width: 80%;
+    height: 500px;
+    object-fit:cover; 
+    margin: 0 auto; 
+    overflow-x: hidden; 
+    padding: 13%; 
+}
+footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   margin: -15px;
+   margin-top:10px;
+   padding: 10px;
+   background-color: #333;
+   color: white;
+   text-align: center;
+}
+.subsection
+{
+  font-family: 'Merriweather', serif;
+  margin: 0 15%;
+  left: 0;
+  bottom: 0;
+  margin-top: 10px;
+  display:flex;
+  flex-wrap: wrap;
+  width: 800px;
+  
+}
+.subsection2{
+  font-family: 'Merriweather', serif;
+  margin: 0 15%;
+  left: 0;
+  bottom: 0;
+  margin-top: 10px;
+  display:flex;
+  flex-wrap: wrap;
+  width: 800px;
+  
+}
+  
+.image1{
+  flex-basis: 65%;
+  width: 30%;
+  height: 300px;
+
+  }
+  .image2{
+    flex-basis: 65%;
+    height: 200px;
+  }
+  .clubs{
+    color: #FF8C00;
+    text-decoration: underline;
+    display: flex;
+    padding: 0;
+    top: 0;
+    width: 100%;
+    text-align: center;
+  }
+  .link{
+  float: right;
+  margin: 0 1.5%;
+  width: 30%;
+}
+.c{
+  margin: 0 15%;
+  left: 0;
+  bottom: 0;
+  margin-top: 10px;
+  display:flex;
+  flex-wrap: wrap;
+  width: 800px;
+}
+  .subsection4 {
+  font-family: 'Merriweather', serif;
+  margin: 0 15%;
+  left: 0;
+  bottom: 0;
+  margin-top: 10px;
+  display:flex;
+  flex-wrap: wrap;
+  width: 800px;
+}
+  form{
+  font-size: 1em;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+}
+/* Style inputs with type="text", select elements and textareas */
+textarea{
+  width: 40%;
+  height: 200px;
+}
+/* Style the submit button with a specific background color etc */
+input{
+  margin: 0 1.5%;
+  background-color: #333;
+  width: 25%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 20px;
+  resize: vertical;
+}
+/* When moving the mouse over the submit button, add a darker green color */
+button:hover {
+  background-color:#FF8C00 ;
+}
+
+
+
+
