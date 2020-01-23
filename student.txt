@@ -1,4 +1,4 @@
 Student name: Mahedi hasan Mridul
 Student number: 632901
 Student class: IT1A
-URL student GitHub repository: https://github.com/mridul-max/webmarkupassesment.git
+URL student GitHub repository: https://github.com/mridul-max/Web-markup-retake.git
